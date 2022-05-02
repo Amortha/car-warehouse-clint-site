@@ -11,6 +11,7 @@ const CustomarReview = () => {
                     <p className='review-name'>--Jorge adam</p>
                     <img className='review-img' src="https://i.ibb.co/9y2Sszz/person-4.jpg" alt="" />
                 </div>
+                
                 <div className="customar">
                     <p className='review-text'>I just love there service. Very good collection and also i am very setisfied.</p>
                     <p className='review-name'>--Mr smeeth</p>
