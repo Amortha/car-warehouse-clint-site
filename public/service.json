@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Rols Roys",
+        "price": "300000",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/g364Yjf/img-1.jpg",
+        "supplier": "Roky Bhi"
+    },
+    {
+        "name": "Ferary Red Queen",
+        "price": "100000",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/sJnPJKQ/img-5.jpg",
+        "supplier": "bill gets"
+    },
+    {
+        "name": "BMW",
+        "price": "150000",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/JmnwLG0/img-6.webp",
+        "supplier": "elon mask"
+    },
+    {
+        "name": "Lambogini",
+        "price": "180",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/Pr42MRc/img-4.webp",
+        "supplier": "zukar mama"
+    },
+    {
+        "name": "TATA Motors",
+        "price": "350000",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/J2mXS5M/img-3.jpg",
+        "supplier": "jony deep"
+    },
+    {
+        "name": "Tesla",
+        "price": "110000",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/8jG1Nhf/img-2.webp",
+        "supplier": "tom kruse"
+    },
+    {
+        "name": "TATA Motors",
+        "price": "350000",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/J2mXS5M/img-3.jpg",
+        "supplier": "jony deep"
+    }
+]
