@@ -86,6 +86,7 @@ const Login = () => {
                             <p>or</p>
                             <div></div>
                         </div>
+
                         <button onClick={handleGoogleSignUp} className='google-login'>
                             Continue with google
                         </button>
