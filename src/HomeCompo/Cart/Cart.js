@@ -8,6 +8,7 @@ const Cart = ({car}) => {
     const handleNavigate =()=>{
         navigate(`/inventory/${car._id}`)
     }
+    
     const [user, loading, error] = useAuthState(auth);
     if (loading) {
         return <Spinner animation="border" variant="info" />

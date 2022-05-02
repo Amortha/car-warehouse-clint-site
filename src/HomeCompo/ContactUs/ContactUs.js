@@ -6,6 +6,7 @@ const ContactUs = () => {
         <div>
             <h2 className='contact-title'>Contuct With Us</h2>
             <div className='contact-way'>
+                <h3> Car WareHouse</h3>
                 <p><span>Address: </span>123# Mirpur,
                 Dhaka, Bangladesh</p>
                 <p><span>Phone: </span> (+880) 01829704087</p>
