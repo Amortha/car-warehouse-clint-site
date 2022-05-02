@@ -2,13 +2,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #03203C;
-    min-height: 40px;
+    background-color: #1472ca;
+    min-height:30px;
 }
 .logo{
     color: #fff;
     margin-left: 10px;
-    padding: 20px 0;
+    padding: 13px 0;
 }
 .logo a{
     text-decoration: none;
