@@ -54,5 +54,13 @@
         "description": "good looking and supper luxary car",
         "img": "https://i.ibb.co/J2mXS5M/img-3.jpg",
         "supplier": "jony deep"
+    },
+    {
+        "name": "TATA Motors",
+        "price": "350000",
+        "quantity": "2",
+        "description": "good looking and supper luxary car",
+        "img": "https://i.ibb.co/J2mXS5M/img-3.jpg",
+        "supplier": "jony deep"
     }
 ]

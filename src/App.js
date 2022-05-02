@@ -24,7 +24,6 @@ function App() {
         <Route path='/inventory/:inventoryId' element={
           <RequireAuth>
             <MyInventory />
-            <Newcar></Newcar>
           </RequireAuth>
         } />
         <Route path='manageInventory' element={

@@ -4,14 +4,16 @@
     font-weight: 700;
     font-size: 35px;
     font-family: 'Orelega One', cursive;
+    
 }
 .contact-way{
-    background-color:#242B2E ;
-    color: gray;
+    background-color:#1472ca;
+    color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+   
 }
 .contact-way p{
     margin-bottom: 0;
