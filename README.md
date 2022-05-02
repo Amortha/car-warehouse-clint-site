@@ -1,7 +1,7 @@
 This is my project link--  https://splendorous-selkie-0826f4.netlify.app
 
 
-
+* this Website is clint site project.
 * i emplement here firebase
 * i use here mongodb database
 * You can update inventory 
